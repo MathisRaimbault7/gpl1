@@ -9,3 +9,4 @@ git add local1
 git commit -m "mise à jour"
 git push 
 
+J'ai préféré ajouter ce que je sais faire plutôt que de ne rien ajouter parce que le temps est dépassé. J'ai perdu du temps sur la création du repo comme vous pouvez le voir dans l'historique.
