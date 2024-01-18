@@ -1,4 +1,7 @@
 # gpl1
+
+1 ere partie :
+
 (ce que j'ai mis avant 10h41)
 git clone https://github.com/MathisRaimbault7/gpl1.git 
 
@@ -11,6 +14,8 @@ git push
 
 J'ai préféré ajouter ce que je sais faire plutôt que de ne rien ajouter parce que le temps est dépassé. J'ai perdu du temps sur la création du repo comme vous pouvez le voir dans l'historique.
 
+
+2eme partie :
 
 git checkout -b local_branch1
 git push -u origin local_branch1
